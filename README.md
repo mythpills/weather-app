@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Weather App that uses material UI to change theme
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
