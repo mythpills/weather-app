@@ -6,7 +6,14 @@
 
 Used 
 - conditional rendering using makeStyles (Material UI)
-- useState, useEffect (react
+- useState, useEffect (react)
+
+![image](https://user-images.githubusercontent.com/11517358/119277044-4b624a80-bc15-11eb-9fb4-e37dc17089dd.png)
+
+![image](https://user-images.githubusercontent.com/11517358/119277067-6e8cfa00-bc15-11eb-8241-dd8d31c6f469.png)
+
+![image](https://user-images.githubusercontent.com/11517358/119277088-83698d80-bc15-11eb-855e-06c3bbbb93ce.png)
+
 
 ## Available Scripts
 
